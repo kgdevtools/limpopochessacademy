@@ -27,7 +27,7 @@ export default function HomePage() {
           <p className="text-xl text-gray-300 mb-8 max-w-2xl mx-auto">
             Discover and participate in chess tournaments across all five districts of Limpopo Province
           </p>
-          <ImportButton />
+          {/* <ImportButton /> */}
         </div>
       </section>
 
