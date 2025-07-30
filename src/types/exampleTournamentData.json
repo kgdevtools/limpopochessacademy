@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "eventName": "Limpopo Open 2025",
+    "organizer": "Limpopo Chess Federation",
+    "location": "Polokwane",
+    "date": "2025-07-20",
+    "federation": "RSA",
+    "rounds": 6
+  },
+  "players": [
+    {
+      "name": "Benard M.",
+      "rating": 2200,
+      "points": 5.5,
+      "fed": "RSA",
+      "rounds": {
+        "rd1": { "opponent": 15, "color": "w", "result": 1 },
+        "rd2": { "opponent": 8, "color": "b", "result": 1 },
+        "rd3": { "opponent": 2, "color": "w", "result": 0.5 }
+      }
+    },
+    {
+      "name": "Ada Lovelace",
+      "rating": 2350,
+      "points": 5.0,
+      "fed": "ENG",
+      "rounds": {
+        "rd1": { "opponent": 22, "color": "b", "result": 1 },
+        "rd2": { "opponent": 10, "color": "w", "result": 1 }
+      }
+    }
+  ]
+}
